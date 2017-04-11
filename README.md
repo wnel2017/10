@@ -8,8 +8,8 @@
   </tr>
   <tr>
       <td align=center>
- <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816779&from=wnel">2017获多项国际大奖</a> <br/>
- <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816779&from=wnel">◆活摘十年调查◆（请点击观看）</a> <br/>
+ <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816779&from=wnel">◆活摘十年调查◆2017获多项国际大奖</a> <br/>
+ <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816779&from=wnel">请您点击观看</a> <br/>
    </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/10%E5%B9%B4.JPG" /></td>
