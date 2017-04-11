@@ -8,6 +8,7 @@
   </tr>
   <tr>
       <td align=center>
+ <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816779&from=wnel">2017获多项国际大奖</a> <br/>
  <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816779&from=wnel">◆活摘十年调查◆（请点击观看）</a> <br/>
    </tr>
   <tr>
@@ -24,6 +25,7 @@
 ◆影片简介◆<br/>
 ——器官移植，一个最重要道德前提就是自愿捐献，但中国的器官移植在起步就违反了这个底线，从死刑犯身上强摘器官<br/>
 ——1999年，江泽民迫害法轮功后，为达到消灭法轮功的目的，下令可以摘取法轮学员器官。于是这种活摘行为从死刑犯延伸到了良心犯、政治犯和法轮功学员。与此同时，从2000年起，中国的器官移植业呈现出爆炸性的几倍、几十倍的增长<br/>
+◆本片禁止下载、录像、上传、流出。<br/>
   </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/10%E5%B9%B42.jpg" /></td>
