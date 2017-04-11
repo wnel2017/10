@@ -29,6 +29,16 @@
   </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/10%E5%B9%B42.jpg" /></td>
+      </tr>
+  <tr>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E6%B4%BB%E6%91%983.jpg" /></td>
+  </tr>
+  <tr>
+      <td align=center>
+      ◆残忍超越纳粹 引发全球关注◆<br/>
+   </tr>
+  <tr>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E6%B4%BB%E6%91%982.jpg" /></td>
    </tr>
   <tr>
   <tr><td align=center>▼▼▼更多精彩，请看下面▼▼▼<br/>
