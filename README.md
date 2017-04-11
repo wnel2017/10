@@ -1,8 +1,8 @@
 <table>
   <tr>
-    <td align=center><img src=" https://raw.githubusercontent.com/wnel2017/ku/master/ogate3.jpg" /></td>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate3.jpg" /></td>
   </tr>
-  <tr>   
+  <tr> 
    <td align=center>
        ❤❤❤活摘十年调查❤❤❤<br/>
        2017全球最新热播纪录片<br/>
