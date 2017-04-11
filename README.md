@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate3.jpg" /></td>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/10%E5%B9%B4.png" /></td>
   </tr>
   <tr> 
    <td align=center>
