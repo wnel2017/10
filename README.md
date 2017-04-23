@@ -59,12 +59,12 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816771&from=wnel">请点击在线观看</a> <br/>
   </tr>
   <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/10%E5%B9%B42.jpg" /></td>
-      </tr>
-  <tr>
-    <td align=center>
+<td align=center>
 ◆致我们心中的善◆平和中的震撼 <br/> 
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c817056&from=wnel">请点击在线观看</a> <br/>
+   </tr>
+  <tr>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/10%E5%B9%B42.jpg" /></td>
    </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/shan3.jpg" /></td>
